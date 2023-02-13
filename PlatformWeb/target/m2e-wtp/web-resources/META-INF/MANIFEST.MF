@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: 
+Implementation-Title: PlatformWeb Maven Webapp
+Implementation-Version: 1.0
+Java-Version: 
+Built-By: 071146744
+Created-On: 2023-02-13T06:00:06Z
+Implementation-Vendor-Id: Sonal
+Build-Jdk: 1.8.0_181
+Created-By: Maven Integration for Eclipse
+
